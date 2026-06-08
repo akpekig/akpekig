@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: coffee --default, synthwave --prefersdark;
+}
+
+@custom-variant dark (&:where([data-theme=synthwave], [data-theme=synthwave] *));

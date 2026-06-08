@@ -1,0 +1,12 @@
+.pnp.cjs
+.pnp.loader.mjs
+.yarn
+node_modules
+public
+build
+dist
+.agents
+.husky
+docs/.vitepress/cache
+docs/.vitepress/dist
+skills-lock.json
