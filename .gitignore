@@ -1,6 +1,4 @@
-node_modules
-docs/.vitepress/cache
-docs/.vitepress/dist
+
 .yarn/*
 !.yarn/cache
 !.yarn/patches
@@ -8,3 +6,6 @@ docs/.vitepress/dist
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+docs/.vitepress/cache
+docs/.vitepress/dist
+node_modules
