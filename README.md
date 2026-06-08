@@ -1,15 +1,8 @@
-
-https://github.com/user-attachments/assets/e0d4e3e3-6069-492c-b714-2690735a02c8
-
 # Professional software engineer and multidisciplinary artist with polyglot expertise
-
-## Say hello 🌊
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/cae-su-ra) 
 
 ## See the sites 🚀
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-d48430?style=for-the-badge)](https://mha-abuse.com) [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=for-the-badge)](https://www.frontendmentor.io/profile/baldwinboy) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-d48430?style=for-the-badge)](https://wdga.xyz) [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=for-the-badge)](https://www.frontendmentor.io/profile/baldwinboy)
 
 ## Skills 🛠️
 
@@ -27,7 +20,7 @@ https://github.com/user-attachments/assets/e0d4e3e3-6069-492c-b714-2690735a02c8
 
 ### Systems 🔧
 
- ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
 
 ### Mobile 📱
 
