@@ -3,6 +3,7 @@ import globals from "globals";
 import markdown from "@eslint/markdown";
 import { defineConfig, globalIgnores } from "eslint/config";
 import eslintPluginPrettierRecommended from "eslint-plugin-prettier/recommended";
+import pluginVue from "eslint-plugin-vue";
 
 export default defineConfig([
   {
@@ -30,4 +31,5 @@ export default defineConfig([
     "skills-lock.json",
   ]),
   eslintPluginPrettierRecommended,
+  pluginVue.configs["flat/recommended"],
 ]);
